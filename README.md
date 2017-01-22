@@ -1,5 +1,15 @@
 
-# QuantumComputing1
+# Overview 
+
+## Quantum Computation Models 
+
+Two models of Quantum Computation are presented 
+- Boson Sampling (Weaker Quantum Computing)
+- Universal Quantum Computing (Full Quantum Computing)
+
+
+
+# Additional References 
 
 Quantum Computing Notes 
 
