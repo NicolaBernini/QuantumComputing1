@@ -8,6 +8,7 @@ List of Quantum Computation Models
 
 Key Strengths 
 - Solving NP Hard Problems in Polynomial Time 
+  - Also called `P=NP` 
 
 
 # History 
